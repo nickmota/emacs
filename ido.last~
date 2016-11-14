@@ -1,0 +1,59 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/" . "Applications/")
+ ("/Users/nicolasmota/Downloads/voice_tracking/voice_tracking/" . "tracking/")
+ ("/Users/nicolasmota/Downloads/voice_tracking/" . "voice_tracking/")
+ ("/Users/nicolasmota/Downloads/" . "voice_tracking/")
+ ("/Users/nicolasmota/Projects/mktops2/" . "mktplace_commission_statements/")
+ ("/Users/nicolasmota/Projects/" . "mktops2/")
+ ("/Users/nicolasmota/" . "Projects/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/nicolasmota/Projects/mktops2/mktplace_commission_statements/"
+ "/Users/nicolasmota/Downloads/voice_tracking/voice_tracking/tracking/"
+ "/Users/nicolasmota/"
+ "/Users/nicolasmota/Projects/mktops2/google_drive_upload/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "run.py"
+ "api.py"
+ "query_commission.sql"
+ "config.ini"
+ ".emacs"
+ "query_commission.ini"
+ "google_drive_api.py"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/nicolasmota/Projects/mktops2/mktplace_commission_statements/" (22566 8411 0 0) "run.py" "requirements.txt" "query_commission.ini~" "output/" "my_credentials.txt" "config.ini~" ".DS_Store" "../" "./")
+
+ ("/Applications/" (22565 60637 0 0) "Utilities/" "Tunnelblick.app/" "Time Machine.app/" "TextEdit.app/" "Telegram.app/" "System Preferences.app/" "Sublime Text.app/" "Stickies.app/" "Spotify.app/" "Skype.app/" "Safari.app/" "Reminders.app/" "QuickTime Player.app/" "PyCharm.app/" "Preview.app/" "Photos.app/" "Photo Booth.app/" "Pages.app/" "Numbers.app/" "Notes.app/" "MySQLWorkbench.app/" "Mission Control.app/" "Messages.app/" "Maps.app/" "Mail.app/" "League of Legends.app/" "Launchpad.app/" "Keynote.app/" "iTunes.app/" "iTerm 2.app/" "iMovie.app/" "Image Capture.app/" "iBooks.app/" "Google Chrome.app/" "GitHub Desktop.app/" "GarageBand.app/" "Game Center.app/" "Font Book.app/" "Firefox.app/" "FaceTime.app/" "Emacs.app/" "DVD Player.app/" "Dictionary.app/" "Dashboard.app/" "Contacts.app/" "Chess.app/" "Calendar.app/" "Calculator.app/" "Automator.app/" "App Store.app/" ".localized" ".DS_Store" "../" "./")
+
+ ("/Users/" (22435 33809 0 0) "Shared/" "nicolasmota/" ".localized" "../" "./")
+
+ ("/Users/nicolasmota/" (22569 48335 0 0) "teste" "Public/" "projeto/" "Projects/" "Pictures/" "Music/" "Movies/" "Library/" "Envs/" "Downloads/" "Documents/" "Desktop/" "bash_profile" "Applications/" ".virtualenvs/" ".viminfo" ".Trash/" ".ssh/" ".rnd" ".python_history" ".pyenv/" ".mysql_history" ".matplotlib/" ".local/" ".ipython/" ".gitconfig" ".emacs~" ".emacs_old" ".emacs.d/" ".emacs" ".DS_Store" ".credentials/" ".config/" ".CFUserTextEncoding" ".bash_sessions/" ".bash_profile" ".bash_history" ".atom/" "#.emacs#" "../" "./")
+
+ ("/Users/nicolasmota/Projects/mktops2/" (22566 8419 0 0) "seller_categories/" "seller_balance_statements/" "sales_report/" "refund/" "README.md" "published_item_counter/" "publish_products/" "publish.log" "pedidos_estornados.txt" "pedidos_estornados/" "my_credentials.txt" "mktplace_commission_statements/" "google_drive_upload/" "export_published_products/" "common/" "client_secrets.json" "check_eans/" "__init__.py" ".gitignore" ".git/" ".DS_Store" "../" "./")
+
+ ("/Users/nicolasmota/Downloads/voice_tracking/voice_tracking/tracking/" (22564 57962 0 0) "urls.pyc" "urls.py" "renderers.pyc" "renderers.py" "manager.pyc" "manager.py" "apps.py" "api.pyc" "api.py" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/nicolasmota/Downloads/voice_tracking/voice_tracking/" (22565 60053 0 0) "tracking/" "manage.py" "db.sqlite3" "config/" "__init__.py" ".DS_Store" "../" "./")
+
+ ("/Users/nicolasmota/Downloads/voice_tracking/" (22565 60003 0 0) "voice_tracking/" "tsuru.yaml" "requirements.txt" "README.md" "Procfile" "Makefile" ".DS_Store" "../" "./")
+
+ ("/Users/nicolasmota/Downloads/" (22565 60638 0 0) "XdzfwgV.jpg" "WhatsApp.zip" "warsaw_setup.pkg" "voice_tracking.zip" "voice_tracking/" "uac_doom4__2016__by_gorillazxd-da2xv98.png" "Tunnelblick_3.6.6_build_4582.dmg" "The-best-top-desktop-hd-dark-black-wallpapers-dark-black-wallpaper-dark-background-dark-wallpaper-23 (1).jpg" "Textured-Widescreen-Background-Wallpaper.jpg" "teste" "telegram.dmg" "super-mario-02.png" "Sublime Text Build 3114.dmg" "SpotifyInstaller.zip" "spacemacs-master.zip" "spacemacs-master/" "Slack.app/" "slack-2.0.3.zip" "Skype_7.33.206.dmg" "skus_png_txt.txt" "sequel-pro-1.1.2.dmg" "sentinmental.gif" "pycharm-professional-2016.2.3.dmg" "nicolas_bb-1.jpg" "nicolas_bb" "nicolas.jpg" "nicolas.alves.tar.gz" "nicolas.alves/" "NFe17160601239313000240550010007855701331227484.pdf" "NFe17160501239313000240550010007751881510462572.pdf" "NFe17160501239313000240550010007715381870526418.pdf" "mysql-workbench-community-6.3.7-osx-x86_64.dmg" "magalu-1.0.24.tar.gz" "magalu-1.0.24/" "League of Legends BR.dmg" "iTerm2-3_0_9.zip" "iTerm2-3_0_12.zip" "iTerm.app/" "Install Spotify.app/" "import_images.out" "homi.jpg" "handyLock.app/" "handyLock+v1.2.10.zip" "H2XDRni.jpg" "guia_inclusao_loja_vtex.pdf" "googlechrome.dmg" "github-recovery-codes.txt" "github-recovery-codes(1).txt" "GitHub Desktop 220.zip" "get_sku_specifications_vtex.py" "GerarPDF_09092016165523.pdf" "fonts-master.zip" "fonts-master/" "Fluxo_de_Desenvolvimento.pdf" "Firefox 48.0.dmg" "Emacs-25.1-1-universal.dmg" "Edimar.mp4" "dev-workflow.md" "cv_renan.doc" "cv_renan(1).doc" "CV Karina Veras.doc" "CPFFF.JPG" "client_secret.json" "chromedriver_mac64.zip" "chromedriver" "buda.jpg" "Atom.app/" "atom-mac.zip" "Android push.mp4" "Analista-Comercial.docx" "AdobeFlashPlayer_22_a_install.dmg" "981856900.png" "981856900.jpg" "679140.png" "41638783-terminal-wallpapers.jpg" "41419273-call-of-duty-world-at-war-wallpapers.jpg" "41206135-terminal-wallpapers.jpg" "36.jpg" "1d6fab18327371.563482bf55071.png" "13953441_1122406057804951_892408812_n.mp4" "12003294_10153040161357623_8487789548163565517_n.jpg" "11371997668080612486.sql" ".localized" ".DS_Store" "../" "./")
+
+ ("/Users/nicolasmota/Projects/mktops2/google_drive_upload/" (22564 46799 0 0) "my_credentials.txt" "google_drive_api.py" "client_secrets.json" "__pycache__/" "__init__.py" "../" "./")
+
+ ("/Users/nicolasmota/Projects/" (22561 52069 0 0) "teste.py~" "teste.py" "snitch/" "skus_png_txt.txt" "reinclude.py" "ping_request.py" "p52/" "mktops2/" "marketplace-ops/" "EPOCA COSMETICOS.txt" "caju/" "babel/" ".travis.yml" ".idea/" ".git/" ".DS_Store" ".#teste.py" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
